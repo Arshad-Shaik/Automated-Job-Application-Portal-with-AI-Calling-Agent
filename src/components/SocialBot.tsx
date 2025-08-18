@@ -89,7 +89,7 @@ export default function SocialBot() {
       >
         {/* WhatsApp */}
         <a
-          href="https://wa.me/919876543210?text=Hello! I'm interested in your services. Can you provide more information?"
+          href="https://wa.me/919494669228?text=Hello! I'm interested in your services. Can you provide more information?"
           target="_blank"
           rel="noopener noreferrer"
           className="mb-2 p-2 rounded-full bg-white hover:bg-green-100 whatsapp-glow shadow-lg"
