@@ -2,6 +2,8 @@
 
 A comprehensive full-stack web application designed to automate and enhance the job recruitment process. This project features a professional company website integrated with a **smart job application system** and an **AI-driven calling agent** powered by the **Bland.ai** API for **real-time candidate engagement**, demonstrating end-to-end automation capabilities.
 
+## Full Stack Dev Demo Link - https://synnectify-technologies.vercel.app/
+
 ## 📖 Situation-Task-Action-Result (STAR Method)
 Situation: Modern recruitment processes require efficient handling of applications and proactive candidate engagement to improve response times and user experience.
 
