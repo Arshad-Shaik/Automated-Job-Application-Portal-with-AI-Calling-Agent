@@ -26,7 +26,8 @@ Email Automation: Node Mailer, Gmail SMTP
 Professional Company Website: A responsive and modern informational site built with React and Tailwind CSS.
 Automated Job Application System: Integrated Google Form for submissions, with data stored and managed in Google Sheets.
 Instant Email Notifications: Automated emails triggered via Google Apps Script to confirm applicant submissions and alert administrators.
-AI-Powered Candidate Engagement: An AI calling agent implemented by integrating the Bland.ai API via n8n workflows. This agent places personalized, dynamic confirmation calls to applicants, providing a unique and engaging experience.
+AI-Powered Candidate Engagement: An AI calling agent implemented by integrating the Bland.ai API via n8n workflows. This agent places personalized, dynamic confirmation calls to applicants, providing a unique and engaging experience. 
+**Note: We used n8n 14 days of free trail.** 
 
 ## 📸 Screenshots
 
