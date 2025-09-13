@@ -34,20 +34,21 @@ AI-Powered Candidate Engagement: An AI calling agent implemented by integrating 
 ### N8N Workflow | AI Calling Agent |
 <img width="1273" height="716" alt="Screenshot 2025-09-13 123033" src="https://github.com/user-attachments/assets/b55a68c2-3e1f-41e4-bfe6-73a9e3c0369e" />
 
-<img width="1475" height="849" alt="Screenshot 2025-08-29 111211" src="https://github.com/user-attachments/assets/929d1e0a-0790-432a-9348-9a885073bc93" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/fc1066d5-9d07-4dca-ace6-af4fb81659a0" />
 
-<img width="1275" height="717" alt="Screenshot 2025-09-13 123853" src="https://github.com/user-attachments/assets/f642656e-a24f-4c17-809f-930d701b3eab" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/ae3e5162-4a0c-408c-83b4-a1bdff26b2de" />
 
-<img width="1474" height="845" alt="Screenshot 2025-08-29 125052" src="https://github.com/user-attachments/assets/44e5322f-e23d-40ac-b4f2-d2ec74e7921b" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/8edbe29f-c8cc-4e0d-9bdc-cacec1bb7e41" />
+
 
 ### Error Rectified by Arshad Wasib Shaik
-<img width="1918" height="859" alt="Screenshot 2025-08-29 165942" src="https://github.com/user-attachments/assets/041c78fe-2795-43ae-95ae-b48439cd5673" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/0dad7810-b374-4f19-b3f3-a5ba6753a6de" />
 
-<img width="1353" height="350" alt="Screenshot 2025-08-29 170755" src="https://github.com/user-attachments/assets/e0be10f4-d812-491a-b975-8bdcd34ffa0c" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/7adb6ebd-0c19-4942-90ea-e2a4a9482605" />
 
-<img width="1919" height="860" alt="Screenshot 2025-08-29 171728" src="https://github.com/user-attachments/assets/6b74c73e-16af-42c7-a4ec-a4e380844bd0" />
+<img width="1919" height="860" alt="image" src="https://github.com/user-attachments/assets/a8873fe1-8359-464b-8508-8a84490f7960" />
 
-<img width="1919" height="892" alt="Screenshot 2025-09-02 182932" src="https://github.com/user-attachments/assets/bcc3baff-598d-4206-8408-bdf260556a98" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/00da45f4-b21e-49de-85c6-3ec773f1bc31" />
 
 <img width="1919" height="883" alt="Screenshot 2025-09-02 183558" src="https://github.com/user-attachments/assets/17694167-12ba-4cc7-9943-4facf850189b" />
 
