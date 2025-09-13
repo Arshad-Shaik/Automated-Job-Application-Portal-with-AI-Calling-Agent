@@ -70,3 +70,18 @@ AI-Powered Candidate Engagement: An AI calling agent implemented by integrating 
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b1e7abce-31d0-4e67-bab2-02facac73fdc" />
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/24509a62-fb59-4039-bccb-130daa06745d" />
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/15d84f83-16c6-49d6-b321-16a3bc67a9c5" />
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/93aa2ff9-6254-4262-8eea-9ac1b1c92192" />
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/95ec9d20-cb4d-4844-bc19-358e8de0990b" />
+### Using bland.ai API we created AI Calling Agent with Alexa Voice.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d6263416-ae70-4788-9f9e-f5afdd93e4af" />
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/8a6658ac-e4e0-47b0-a275-ef85ef118275" />
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/49fe6085-721c-4be7-88bb-deac01f3df13" />
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/be153fa7-3bce-4fed-b269-0df03beee478" />
