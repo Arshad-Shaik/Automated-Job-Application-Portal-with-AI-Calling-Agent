@@ -46,17 +46,27 @@ AI-Powered Candidate Engagement: An AI calling agent implemented by integrating 
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/7adb6ebd-0c19-4942-90ea-e2a4a9482605" />
 
-<img width="1919" height="860" alt="image" src="https://github.com/user-attachments/assets/a8873fe1-8359-464b-8508-8a84490f7960" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/ec29e26d-b683-42e2-a263-ab3999685232" />
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/00da45f4-b21e-49de-85c6-3ec773f1bc31" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/fbd9a6f9-b1b0-4c2f-8fa7-054e827e383b" />
 
-<img width="1919" height="883" alt="Screenshot 2025-09-02 183558" src="https://github.com/user-attachments/assets/17694167-12ba-4cc7-9943-4facf850189b" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/f3810567-bb1b-4f2b-9f38-dda46564ea57" />
 
-<img width="1919" height="869" alt="Screenshot 2025-09-02 184705" src="https://github.com/user-attachments/assets/e7bca455-6d5b-485d-abb6-d81661b84deb" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d9323c6a-e8d7-43ca-8a7c-01f9be89dda7" />
 
-<img width="1472" height="741" alt="Screenshot 2025-09-02 184822" src="https://github.com/user-attachments/assets/c6cd3435-79f9-400a-b444-1218c6deb61d" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/284ee38a-3c6f-4d83-9246-e8c20b4a7c0d" />
 
-<img width="1474" height="816" alt="Screenshot 2025-09-02 184905" src="https://github.com/user-attachments/assets/e9ae0d2a-dfd8-40e3-beb6-d7a28abcbee0" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/7b5222e9-aa05-4f6c-886d-32cbc126a152" />
 
-<img width="1917" height="759" alt="Screenshot 2025-09-02 185933" src="https://github.com/user-attachments/assets/504bb5ee-8b3c-4263-a882-6fb60509cf98" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/862e0fd7-7309-487b-bc0f-2debf0062dc5" />
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/fe78dbc3-aaaf-4fe2-9a48-791ea6b98288" />
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/eebb93c5-beb2-4ff8-a143-a512f78dcebe" />
+
+<img width="1919" height="1006" alt="Screenshot 2025-09-06 115044" src="https://github.com/user-attachments/assets/67552137-1ecc-4f66-b742-83360f004bc5" />
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/ac591ad2-0694-42da-96bc-be41902a0015" />
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b1e7abce-31d0-4e67-bab2-02facac73fdc" />
 
