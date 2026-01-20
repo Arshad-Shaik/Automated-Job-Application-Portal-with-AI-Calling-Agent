@@ -2,7 +2,8 @@
 
 **Developed and deployed a full‑stack recruitment portal using React.js, TypeScript, and Tailwind CSS. Integrated Bland.ai API via n8n workflows to automate over 500+ candidate confirmation calls daily, reducing manual outreach time by 70%. Applied hypothesis testing to validate recruitment data and accelerated sprint delivery by 30% through coding standards and workflow optimization.** 
 
-## Demo Link - https://synnectify-technologies.vercel.app/
+## Demo Hosted in Vercel Link - https://synnectify-technologies.vercel.app/
+## Live Hosted in Hostinger Link - https://technologies.synnectify.com/
 
 **I engineered a fully automated recruitment solution that streamlined application handling and enhanced candidate engagement, achieving a 70% reduction in administrative overhead and 40% faster response times. Designed a responsive front‑end with React.js, Vite.js, and Tailwind CSS, improving user experience scores by 30%, and architected a serverless backend using Google Forms, Google Sheets, and Google Apps Script to automate data collection, storage, and notifications. Integrated an AI Calling Agent via n8n workflows and Bland.ai API, enabling 500+ personalized confirmation calls daily and boosting candidate satisfaction by 35%. Delivered a production‑ready pipeline that showcased expertise in workflow automation, API orchestration, process improvement, and stakeholder communication, driving measurable business impact and operational efficiency.**
 
